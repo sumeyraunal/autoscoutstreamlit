@@ -1,3 +1,0 @@
-sklearn
-xgboost==0.90
-streamlit==1.9.0
